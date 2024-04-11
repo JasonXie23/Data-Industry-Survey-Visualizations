@@ -1,4 +1,11 @@
 # Data-Industry-Survey-Visualizations
 
-I have published it in my Powerbi service, and I have attached a link. But it seems that it is not always easy to open it with the link, so I download the pdf version of my dash board.
-<iframe width="800" height="600" src="[https://app.powerbi.com/reportEmbed?reportId=YOUR_REPORT_ID&autoAuth=true&ctid=YOUR_TENANT_ID](https://app.powerbi.com/reportEmbed?reportId=fb04f62b-4e6c-4d62-b9ca-fafb906806ac&autoAuth=true&ctid=0e5bf3cf-1ff4-46b7-9176-52c538c22a4d)" frameborder="0" allowFullScreen="true"></iframe>
+I have published it in my Powerbi service, but it seems that I can not share it without paying, so I download the pdf version of my dash board. But PDF version can not use powerbi grouping function to see the data.
+
+#Insights after the Visualization
+1. In most of the country, the average salary working as a Data Scientist is the highest except Canada and UK. However, data scientist seems to have a low market demand, since most of the survey takers are data analytics(381) but data scientist only have 25.
+
+2. The most popular language in data industry is Python, then R, nearly 4 times gap between them. SQL here is belonging to other range, it is the third category. The rest language is not frequently used in data industry.
+3. America has the biggest market for data workers, a majority of them works in America. It outweighs other country a lot
+4. Female seems to have advantages in the data industry, both the salary and the workers outweighs the male workers.
+5. People worked as data scientist seems to have the best satisfaction in their job, while data architect and student/looking seems to be least happy with their job.
